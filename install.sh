@@ -4,7 +4,7 @@
 
 set -euo pipefail
 
-REPO_RAW="https://raw.githubusercontent.com/agrimsingh/ralph-wiggum-opencode/main"
+REPO_RAW="https://raw.githubusercontent.com/graffhyrum/ralph-wiggum-opencode/main"
 
 echo "═══════════════════════════════════════════════════════════════════"
 echo "🐛 Ralph Wiggum Installer"
