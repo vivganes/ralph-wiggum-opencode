@@ -1,6 +1,6 @@
 #!/bin/bash
 # Ralph Wiggum: One-click installer
-# Usage: curl -fsSL https://raw.githubusercontent.com/agrimsingh/ralph-wiggum-opencode/main/install.sh | bash
+# Usage: curl -fsSL https://raw.githubusercontent.com/graffhyrum/ralph-wiggum-opencode/main/install.sh | bash
 
 set -euo pipefail
 
